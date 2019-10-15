@@ -18,6 +18,8 @@
 
 ### 🏠 [Homepage](https://github.com/bdougie/theWeekNum#readme)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/benmvp/actions-ci-workshop.svg)](https://greenkeeper.io/)
+
 
 ## Usage
 
